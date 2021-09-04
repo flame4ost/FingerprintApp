@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FingerprintAuthentication</string>
+    <string name="mytext">Ласкаво просимо, Ярослав! Ви ввійшли в свій приватний рахунок.</string>
+    <string name="uktextmy">Покладіть ваш палець на сканер відбитка пальців!</string>
+</resources>
